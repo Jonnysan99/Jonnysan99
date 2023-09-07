@@ -22,6 +22,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=jonnysan99&show_icons=true&locale=en" alt="jonnysan99" /></p>
 
-
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jonnysan99&" alt="jonnysan99" /></p>
+<p>&nbsp<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jonnysan99&" alt="jonnysan99" /></p>
