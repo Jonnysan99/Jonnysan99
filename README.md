@@ -17,18 +17,21 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-
+<div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;          
-<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;      <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/opera/opera-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;  
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;          
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;      <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/opera/opera-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+</div>
 
-
+---
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonnysan99&show_icons=true&locale=en" alt="jonnysan99" /></p>
 
+---
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonnysan99&" alt="jonnysan99" /></p>
 
-
+---
